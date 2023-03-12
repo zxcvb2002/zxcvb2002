@@ -1,4 +1,4 @@
-### Hi there 👋
+### 이 사용자는 게을러 터졌습니다.
 
 <!--
 **zxcvb2002/zxcvb2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
