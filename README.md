@@ -6,7 +6,9 @@
 <img src="https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
+<!--
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=zxcvb2002&theme=cold)</a>
+-->
 
 <!--
 **zxcvb2002/zxcvb2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
